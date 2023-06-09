@@ -1,0 +1,6 @@
+# Tracker.gg View Bot
+
+# Tool settings
+link_to_boost: "https://tracker.gg/valorant/profile/riot/sara%23clown/overview"
+proxies_file: "src/input/proxies.txt"
+threads: 10
