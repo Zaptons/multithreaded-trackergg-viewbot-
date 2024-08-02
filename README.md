@@ -5,3 +5,5 @@ Note* hard to say if it works still, ive got it to work with high quality proxie
 
 JUST BECAME AWARE PEOPLE ARE SELLING MY CODE FOR CRAZY PRICES! THE CODE IS FREE GUYS?????
 
+Contacts: DC: Zaptons - support@zaptons.com - releaselua@proton.me
+
