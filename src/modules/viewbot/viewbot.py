@@ -31,14 +31,21 @@ class ViewBot():
 
             # Set title
             if os.name == 'nt':
-                os.system(f"title Tracker.gg View Bot • Views sent: {self.views_sent} • Views failed: {self.views_failed} • Views rate limited: {self.views_ratelimited}")
+                os.system(f"title Tracker.gg View Bot • Views sent: {self.views_sent} • Views failed: {self.views_failed} • Views rate limited: {self.views_ratelimited}• Profile: {self.config.link_to_boost}")
 
             headers = {
-                'authority': 'tracker.gg',
-                'cache-control': 'kax-age=0',
-                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,/;q=0.8,application/signed-exchange;v=b3;q=0.7',
-                'Accept-Encoding': 'gzip, deflate, br',
-                'Accept-Language': 'en-US,en;q=0.9',
+                'Accept': 'application/json,text/plain, */*',
+                'Accept-Encoding': 'gzip, deflate',
+                'Accept-Language': 'en-US,en;q=0.6',
+                'Host' : 'api.tracker.gg',
+                'Origin' : 'https://tracker.gg',
+                'Referer' : 'https://tracker.gg/',
+                'sec-ch-ua' : '"Google Chrome";v="125","Chromium";v="125","Not.A/Brand";v="25"',
+                'sec-ch-ua-mobile' : '?0',
+                'sec-ch-ua-platform' : '"Windows"',
+                'Sec-Fetch-Dest' : 'empty',
+                'Sec-Fetch-Mode' : 'cors',
+                'Sec-Fetch-Site' : 'same-site',
                 "User-Agent": user_agent,
             }
 
