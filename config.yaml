@@ -1,6 +1,7 @@
 # Tracker.gg View Bot
 
 # Tool settings
-link_to_boost: "https://tracker.gg/valorant/profile/riot/sara%23clown/overview"
+# USE API LINKS TO AVOID BEING CACHED BY CLOUDFLARE!
+link_to_boost: "https://api.tracker.gg/api/v2/valorant/standard/profile/riot/saint%23444x?source=web"
 proxies_file: "src/input/proxies.txt"
 threads: 10
