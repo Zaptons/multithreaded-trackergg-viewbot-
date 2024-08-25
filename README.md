@@ -58,7 +58,7 @@ This project can be fit to your liking, it's mainly supposed to be a sort of bas
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Zaptons/multithreaded-trackergg-viewbot.git
+   git clone https://github.com/Zaptons/multithreaded-trackergg-viewbot-.git
    ```
 3. Import requirements
 
