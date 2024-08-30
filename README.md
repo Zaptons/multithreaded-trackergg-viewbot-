@@ -66,6 +66,7 @@ This project can be fit to your liking, it's mainly supposed to be a sort of bas
 
 5. ADD YOUR OWN PROXIES. I personally recommend rotating datacenter proxies as they are pretty cheap and work well.
 
+I usually use proxies from https://app.kocerroxy.com/register?referral=638537bff2ab58cdfde39807 for this project, 250 threads of rotating datacenter proxies cost $2 a day which is enough for 500k views if you run it the whole 24 hours.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
