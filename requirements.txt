@@ -1,0 +1,6 @@
+colorama==0.4.6
+curl_cffi==0.7.1
+pystyle==2.9
+PyYAML==6.0.2
+Requests==2.32.3
+user_agent==0.1.10
