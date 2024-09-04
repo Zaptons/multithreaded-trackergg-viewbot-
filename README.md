@@ -31,6 +31,10 @@ Alright... so this is the final release of the project as of now. People have ri
 
 Anyway, at this point it doesn't matter if this repository gets ripped and sold again. Skidders will skid, simple as that. Anyway for the rest of you, ENJOY!
 
+I'm not trying to be rude, but I won't be answering stupid questions that appear in my inbox. Guys, chatgpt and google is your best friend for simple questions like, "Where do I put the proxies", "Why does it not load", "How do I run"...
+
+If you somehow don't get it working, you can contact me and I'll run it for you on a vps, but I'll charge a $10 fee, just to not spam my inbox with this.
+
 Here's why:
 * Cheap and easy way of making your profile tracker look "legit" for all cheaters out there.
 * High demand and first to be posted publicly.
