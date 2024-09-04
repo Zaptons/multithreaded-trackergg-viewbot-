@@ -27,6 +27,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Kindly upvote this project by leaving a star to motivate me to push more updates to this repo, I already know the interest is huge.
+
 Alright... so this is the final release of the project as of now. People have ripped older versions of this repository providing "viewbotting as a service" which is outragous. While charging 5$/1000 views, total scam. With a days worth of datacenter proxies which cost $2-3 you can easily bot 500k views. 
 
 Anyway, at this point it doesn't matter if this repository gets ripped and sold again. Skidders will skid, simple as that. Anyway for the rest of you, ENJOY!
