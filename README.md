@@ -101,6 +101,15 @@ Zaptons: DC: Zaptons- contact@zaptons.com - releaselua@proton.me
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Buy me a coffee
+
+All donations are well appriciated but never mandatory!
+ltc: MLLQFPHEPimNKefuqRakU1Y2MEDo3fE89J
+usdc (base): 0xF6751c85357980Bd6598148600b724DADDC921cB
+eth: 0x6D9045A7Aa129f829C3A6A9D33Bcd0E418c728e2
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
