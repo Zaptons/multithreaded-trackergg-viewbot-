@@ -14,7 +14,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-PROJECT STILL WORKS AFTER THE TRACKER.GG captcha implementation! They wont really be able to patch this.
+PROJECT STILL WORKS AFTER THE TRACKER.GG CAPTCHA IMPLEMENTATION.
 
 Kindly upvote this project by leaving a star to motivate me to push more updates to this repo, I already know the interest is huge.
 
