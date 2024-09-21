@@ -58,7 +58,7 @@ License
 This project is distributed under the MIT License. For more details, see the LICENSE.txt file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-### Contact
+### Contacts
 Discord: Zaptons
 Email: contact@zaptons.com / releaselua@proton.me
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
