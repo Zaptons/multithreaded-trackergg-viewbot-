@@ -44,9 +44,10 @@ To set up the project, follow these simple steps:
    git clone https://github.com/Zaptons/multithreaded-trackergg-viewbot-.git
 Install requirements:
 
-bash
-Copy code
-pip install -r requirements.txt
+   ```python
+   pip install -r requirements.txt
+```
+
 Edit the config file: Update the configuration details to match your setup.
 
 Add Proxies: I recommend rotating datacenter proxies as they are cost-effective and perform well.
