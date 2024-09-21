@@ -58,14 +58,14 @@ License
 This project is distributed under the MIT License. For more details, see the LICENSE.txt file.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-Contact
+### Contact
 Discord: Zaptons
 Email: contact@zaptons.com / releaselua@proton.me
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-Support
+### Support
 If you'd like to support this project, you can buy me a coffee! Your donations are appreciated, though not required.
 
-LTC: MLLQFPHEPimNKefuqRakU1Y2MEDo3fE89J
-USDC (Base): 0xF6751c85357980Bd6598148600b724DADDC921cB
-ETH: 0x6D9045A7Aa129f829C3A6A9D33Bcd0E418c728e2
-<p align="right">(<a href="#readme-top">back to top</a>)</p> ```
+### LTC: MLLQFPHEPimNKefuqRakU1Y2MEDo3fE89J
+### USDC (Base): 0xF6751c85357980Bd6598148600b724DADDC921cB
+### ETH: 0x6D9045A7Aa129f829C3A6A9D33Bcd0E418c728e2
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
