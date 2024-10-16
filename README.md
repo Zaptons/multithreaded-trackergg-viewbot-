@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 # Multithreaded Tracker.GG Viewbot
 
-**PROJECT STILL WORKS AFTER TRACKER.GG CAPTCHA IMPLEMENTATION**  
+**PROJECT PATCHED AS OF 2024-10-15, WORKING ON NEW BYPASSES**  
 
 Kindly ⭐ the project to show your support. Your interest motivates further updates!
 
