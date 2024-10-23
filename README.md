@@ -9,6 +9,13 @@ Kindly ⭐ the project to show your support. Your interest motivates further upd
 
 ---
 
+### What is being worked on?:
+* Further spoofing to fix the "patch" put in place by tracker.gg. Ps, nice cf_clearence cookie.”
+* Async support as the project will be significantly slower and heavier to run as I'm adding a lot of QOL features as well as advanced session spoofing expect 50-100 sessions/ minute.
+* Advanced logging system, usage statistics, easier request debugging, dynamic header spoofing.
+
+This project serves as a **base** but is easy to modify to your needs.
+
 ## About the Project
 
 This is the final release of the project. Unfortunately, earlier versions have been ripped off and sold as "viewbotting as a service" (for $5/1000 views). Ridiculous, given that with $2-3 worth of datacenter proxies, you can generate 500k views in a day.
