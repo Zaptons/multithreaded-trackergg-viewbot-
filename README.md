@@ -48,7 +48,7 @@ To set up the project, follow these simple steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Zaptons/multithreaded-trackergg-viewbot-.git
+   git clone https://github.com/0xtracepacket/multithreaded-trackergg-viewbot-.git
 Install requirements:
 
    ```python
@@ -67,8 +67,8 @@ This project is distributed under the MIT License. For more details, see the LIC
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 Contacts
-Discord: Zaptons
-Email: contact@zaptons.com / releaselua@proton.me
+Discord: Tracepacket
+Email: releaselua@proton.me
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 Support
 If you'd like to support this project, you can buy me a coffee! Your donations are appreciated, though not required.
